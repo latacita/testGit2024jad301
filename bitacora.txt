@@ -10,4 +10,13 @@
 2	add 
 4	branch PrimeraRama
 	checkout PrimeraRama
+6	branch SegundaRama
+	checkout SegundaRama
 11	stash
+13	checkout SegundaRama
+14	el merge seria recursivo
+	ha habido commits en la primera rama desde su creacion
+	que la segunda rama no conoce
+15	el merge seria fast forward
+	no ha habido commits en main que la primera rama no 
+	conozca
