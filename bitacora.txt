@@ -8,3 +8,9 @@
 ====== ============================ ================================
 1	clone URL
 2	add 
+8	push origin			sin conflictos
+9	checkout master
+17	checkout PrimeraRama
+18	merge --no-ff SegundaRama
+19	checkout master
+20	stash apply
