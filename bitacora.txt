@@ -1,7 +1,7 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre): Javier Arce del Campo                                     %%
+%% Alumno (Apellidos, Nombre): Javier Arce del Campo                %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
