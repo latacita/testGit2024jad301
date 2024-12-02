@@ -14,3 +14,7 @@
 18	merge --no-ff SegundaRama
 19	checkout master
 20	stash apply
+26	tag "PasosExtras"
+27	checkout master
+28	cherry PasosExtras		lo hago con interfaz 
+					de GitKraken

@@ -1,0 +1,6 @@
+22	push origin 		hay conflictos, luego hago pull
+	pull			para ver los cambios, soluciono
+	merge			las diferencias y hago merge
+	push origin		luego push de nuevo sin conflicto
+23	checkout SegundaRama
+24	add "pasosExtra.txt"
